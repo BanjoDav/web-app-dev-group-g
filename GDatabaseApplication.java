@@ -1,3 +1,5 @@
+//Main Application class for Library Website EE417 Group G
+
 package com.G_Database.G_Database;
 
 import org.springframework.boot.SpringApplication;

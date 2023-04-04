@@ -5,9 +5,9 @@ package com.G_Database.G_Database;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 
-@Entity // This tells Hibernate to make a table out of this class
+@Entity // This tells Jakarta JPA to make a table out of this class
 public class login {
-@Id
+@Id		// Primary key annotation
 private Integer loginid;
 private String Username;
 private String Pass;

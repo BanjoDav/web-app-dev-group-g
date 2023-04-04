@@ -1,4 +1,4 @@
-//RestController for Library interface - includes endpoints for books, members and library records tables D.Mullen Group G 20/03/2023
+//RestController for Library interface - includes endpoints for books, members, library records and login tables D.Mullen Group G 20/03/2023
 
 package com.G_Database.G_Database;
 
